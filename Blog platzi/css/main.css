@@ -179,3 +179,35 @@ footer p {
     width: 100%;
     border-radius: 50px;
 }
+.blogpost-main-container h3 {
+    border-bottom: 1px solid #47cfac;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.blogpost-main-container article h1{
+    font-size: 35px;
+}
+.contact-main-container {
+    padding-top: 10px;
+    width: 100%;
+    min-height: 200px;
+    background-color: #def7f0;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.contact-main-container div {
+    display: inline-block;
+    width: 49.5%;
+    height: 100%;
+}
+.contact-main-container div a {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+.contact-main-container .contact-left, .contact-right {
+    text-align: initial;
+    margin-top: 85px;
+}
+.contact-main-container img {
+    width: 100px;
+}
