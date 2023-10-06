@@ -171,3 +171,11 @@ footer p {
     margin-top: 30px;
     text-align: center;
 }
+
+.blogpost-img-container {
+    padding: 0 50px 40px;    
+}
+.blogpost-img-container img {
+    width: 100%;
+    border-radius: 50px;
+}
